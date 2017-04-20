@@ -1,0 +1,34 @@
+Politica de escrita: 1
+Tamanho da linha: 128
+Numero de linhas: 64
+Associatividade por conjunto: 4
+Tempo de acesso quando encontra: 10
+Tamanho da palavra: 7
+Tamanho do rotulo: 21
+Politica de substituição: LRU
+Arquivo de entrada: oficial.cache
+Arquivo de saida: teste.txt
+Tempo de acesso a memoria principal: 60
+
+Arquivo:
+Total de linhas: 51200
+Total de leituras: 45056
+Total de escritas: 6144
+
+Cache:
+Total de leituras: 45056
+Total de acertos em leitura: 41438
+Taxa de acerto em leitura: 91.9700
+
+Total de escrita: 6144
+Total de acertos em escrita: 4607
+Taxa de acerto em escrita: 74.9837
+
+Taxa de acerto cache: 89.9316
+Tempo médio: 16.0410
+
+Memória principal:
+leituras: 5155
+escritas: 517
+acessos: 5672
+

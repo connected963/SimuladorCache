@@ -1,0 +1,9 @@
+politicaEscrita: 1
+tamanhoLinha: 128
+numeroLinhas: 128
+associatividadePorConjunto: 4
+hitTime: 10
+politicaSubstituicao: asd
+arquivoEntrada: oficial.cache
+arquivoSaida: La.txt
+tempoAcessoMP: 60
